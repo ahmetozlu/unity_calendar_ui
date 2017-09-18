@@ -1,4 +1,4 @@
-# Unity3DCalendarGUI
+# Unity Calendar GUI
 This is well defined-basic "Calendar GUI" for Unity3D. The GUI is very basic but it has pretty good functionality. You can get the date as a string when user select date via this GUI.
 
 <p align="center">
