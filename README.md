@@ -5,4 +5,4 @@ This is well defined-basic "Calendar GUI" for Unity3D. The GUI is very basic but
   <img src="https://user-images.githubusercontent.com/22610163/30544896-a802aa08-9c90-11e7-8a84-fe0a88c0370d.png">
 </p>
 
-Please try to contribute this project because Unity has not GUI for Calendar.
+Please try to contribute this project because Unity has not GUI support for Calendar.
